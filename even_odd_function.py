@@ -3,5 +3,5 @@ def odd_even(number):
         print("Number is even.")
     else:
         print("Number is odd.")
-s=int(input("Enter a number: "))
-odd_even(s)
+number=int(input("Enter a number: "))
+odd_even(number)
